@@ -1,2 +1,3 @@
 /.idea/git_toolbox_prj.xml
 /01-project-setup/dist/
+/02-webpack-typescript/yarn.lock
